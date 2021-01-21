@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+*.bat linguist-language=csharp
+miniprogram/pages/index/UPNG.js linguist-vendored
+miniprogram/pages/index/gifuct-js.js linguist-vendored
+miniprogram/pages/index/pako.min.js linguist-vendored
+miniprogram/pages/index/jquery*.js linguist-vendored
+
 <!--
 **StringsLi/StringsLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
