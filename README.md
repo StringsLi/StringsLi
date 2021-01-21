@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-*.bat linguist-language=csharp
-miniprogram/pages/index/UPNG.js linguist-vendored
-miniprogram/pages/index/gifuct-js.js linguist-vendored
-miniprogram/pages/index/pako.min.js linguist-vendored
-miniprogram/pages/index/jquery*.js linguist-vendored
-
 <!--
 **StringsLi/StringsLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: https://stringsli.github.io/
+- 📫 How to reach me: https://stringsli.github.io/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: https://stringsli.github.io/
